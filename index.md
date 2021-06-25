@@ -7,9 +7,7 @@ layout: default
 
 **Email**: wanweitao@ruc.edu.cn
 
-I am an undergraduate student in School of Infomation in RUC.
-
-**Research Interests:**
+I am an undergraduate student in School of Information in Renmin University of China.
 
 **Education Background:**
 
@@ -18,6 +16,9 @@ I am an undergraduate student in School of Infomation in RUC.
 **Research and Development Experience:**
 
 **Recent Awards & Honors:**
+
++ Excellent Academic Scholarship (2018-2019)
++ Excellent Academic Scholarship (2019-2020)
 
 **Projects:**﻿
 
