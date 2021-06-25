@@ -11,7 +11,7 @@ I am an undergraduate student in School of Information in Renmin University of C
 
 **Education Background:**
 
-1. Sep. 2018 ~ Now: **B.S. in School of Information**, Renmin University of China.
+1. Sep. 2018 ~ Jun. 2022: **B.S. in School of Information**, Renmin University of China.
 
 **Research and Development Experience:**
 
